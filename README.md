@@ -9,3 +9,6 @@ A simple and responsive calculator built using HTML and CSS. This project showca
 ## Technologies Used:
 - HTML
 - CSS
+
+## License  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
